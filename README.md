@@ -53,7 +53,7 @@ and download outputs
 - **Get Movie Details:**
   
 - **Endpoint:**
-   ```bash
+   
    'https://api.themoviedb.org/3/movie/{movie_id}?api_key={add_your_api_key}&language=en-US'
 - **Description:** Fetches detailed information about a specific movie.
 
