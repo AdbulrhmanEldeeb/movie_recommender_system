@@ -3,9 +3,9 @@
 This is a movie recommender system built using Streamlit and The Movie Database (TMDB) API. The system recommends movies based on cosine similarity, analyzing user-selected movie titles to suggest similar movies.
 
 ## Data preprocessing and creating similarity array 
-review the notebook on kaggle  
+review the notebook on kaggle                     
     
-    https://www.kaggle.com/code/abdulrhmaneldeeb/movies-5000
+https://www.kaggle.com/code/abdulrhmaneldeeb/movies-5000
 
 ## Features
 - **Personalized Movie Recommendations**: Suggests movies similar to the one selected by the user.
