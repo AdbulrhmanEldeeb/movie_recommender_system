@@ -37,9 +37,9 @@ https://www.kaggle.com/code/abdulrhmaneldeeb/movies-5000
 
 
 4. **Ensure you have the necessary data files:**
-review this notebook on kaggle
-    ```bash
-    https://www.kaggle.com/code/abdulrhmaneldeeb/movies-5000
+review this notebook on kaggle                           
+    
+https://www.kaggle.com/code/abdulrhmaneldeeb/movies-5000
 and download outputs 
 - movie_list.pkl
 - similarity.pkl
